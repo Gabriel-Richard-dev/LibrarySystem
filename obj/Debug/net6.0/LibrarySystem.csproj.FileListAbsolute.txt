@@ -1,0 +1,15 @@
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/LibrarySystem
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/LibrarySystem.deps.json
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/LibrarySystem.runtimeconfig.json
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/LibrarySystem.dll
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/ref/LibrarySystem.dll
+/home/gabrielrichard/atividades/LibrarySystem/bin/Debug/net6.0/LibrarySystem.pdb
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.csproj.AssemblyReference.cache
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.AssemblyInfoInputs.cache
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.AssemblyInfo.cs
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.dll
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/ref/LibrarySystem.dll
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.pdb
+/home/gabrielrichard/atividades/LibrarySystem/obj/Debug/net6.0/LibrarySystem.genruntimeconfig.cache
